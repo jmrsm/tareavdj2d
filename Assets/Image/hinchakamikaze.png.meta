@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: 92ee90b0553f190479272f985a74f829
+timeCreated: 1477851051
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hinchakamikaze_0
+    21300002: hinchakamikaze_1
+    21300004: hinchakamikaze_2
+    21300006: hinchakamikaze_3
+    21300008: hinchakamikaze_4
+    21300010: hinchakamikaze_5
+    21300012: hinchakamikaze_6
+    21300014: hinchakamikaze_7
+    21300016: hinchakamikaze_8
+    21300018: hinchakamikaze_9
+    21300020: hinchakamikaze_10
+    21300022: hinchakamikaze_11
+    21300024: hinchakamikaze_12
+    21300026: hinchakamikaze_13
+    21300028: hinchakamikaze_14
+    21300030: hinchakamikaze_15
+    21300032: hinchakamikaze_16
+    21300034: hinchakamikaze_17
+    21300036: hinchakamikaze_18
+    21300038: hinchakamikaze_19
+    21300040: hinchakamikaze_20
+    21300042: hinchakamikaze_21
+    21300044: hinchakamikaze_22
+    21300046: hinchakamikaze_23
+    21300048: hinchakamikaze_24
+    21300050: hinchakamikaze_25
+    21300052: hinchakamikaze_26
+    21300054: hinchakamikaze_27
+    21300056: hinchakamikaze_28
+    21300058: hinchakamikaze_29
+    21300060: hinchakamikaze_30
+    21300062: hinchakamikaze_31
+    21300064: hinchakamikaze_32
+    21300066: hinchakamikaze_33
+    21300068: hinchakamikaze_34
+    21300070: hinchakamikaze_37
+    21300072: hinchakamikaze_38
+    21300074: hinchakamikaze_40
+    21300076: hinchakamikaze_49
+    21300078: hinchakamikaze_51
+    21300080: hinchakamikaze_52
+    21300082: hinchakamikaze_53
+    21300084: hinchakamikaze_57
+    21300086: hinchakamikaze_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hinchakamikaze_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 397
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 397
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 402
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 399
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 396
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 396
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 401
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 398
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 318
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 328
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 328
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 327
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 328
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 328
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 328
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 328
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 267
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 267
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 266
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 266
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 191
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 193
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 204
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 197
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 113
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 112
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 111
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 111
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_30
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 102
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 10
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 12
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_33
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 14
+        width: 154
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 70
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 54
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 42
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_52
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 44
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 13
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 13
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchakamikaze_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

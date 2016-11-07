@@ -1,0 +1,2985 @@
+fileFormatVersion: 2
+guid: 8832d0e7340b6d64ea20a91789c2d836
+timeCreated: 1477855437
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemigo-final_0
+    21300002: enemigo-final_1
+    21300004: enemigo-final_2
+    21300006: enemigo-final_3
+    21300008: enemigo-final_4
+    21300010: enemigo-final_5
+    21300012: enemigo-final_6
+    21300014: enemigo-final_7
+    21300016: enemigo-final_8
+    21300018: enemigo-final_9
+    21300020: enemigo-final_10
+    21300022: enemigo-final_11
+    21300024: enemigo-final_12
+    21300026: enemigo-final_13
+    21300028: enemigo-final_14
+    21300030: enemigo-final_15
+    21300032: enemigo-final_16
+    21300034: enemigo-final_17
+    21300036: enemigo-final_18
+    21300038: enemigo-final_19
+    21300040: enemigo-final_20
+    21300042: enemigo-final_21
+    21300044: enemigo-final_22
+    21300046: enemigo-final_23
+    21300048: enemigo-final_24
+    21300050: enemigo-final_25
+    21300052: enemigo-final_26
+    21300054: enemigo-final_27
+    21300056: enemigo-final_28
+    21300058: enemigo-final_29
+    21300060: enemigo-final_30
+    21300062: enemigo-final_31
+    21300064: enemigo-final_32
+    21300066: enemigo-final_33
+    21300068: enemigo-final_34
+    21300070: enemigo-final_35
+    21300072: enemigo-final_36
+    21300074: enemigo-final_37
+    21300076: enemigo-final_38
+    21300078: enemigo-final_39
+    21300080: enemigo-final_40
+    21300082: enemigo-final_41
+    21300084: enemigo-final_42
+    21300086: enemigo-final_43
+    21300088: enemigo-final_44
+    21300090: enemigo-final_45
+    21300092: enemigo-final_46
+    21300094: enemigo-final_47
+    21300096: enemigo-final_48
+    21300098: enemigo-final_49
+    21300100: enemigo-final_50
+    21300102: enemigo-final_51
+    21300104: enemigo-final_52
+    21300106: enemigo-final_53
+    21300108: enemigo-final_54
+    21300110: enemigo-final_55
+    21300112: enemigo-final_56
+    21300114: enemigo-final_57
+    21300116: enemigo-final_58
+    21300118: enemigo-final_59
+    21300120: enemigo-final_60
+    21300122: enemigo-final_61
+    21300124: enemigo-final_62
+    21300126: enemigo-final_63
+    21300128: enemigo-final_64
+    21300130: enemigo-final_65
+    21300132: enemigo-final_66
+    21300134: enemigo-final_67
+    21300136: enemigo-final_68
+    21300138: enemigo-final_69
+    21300140: enemigo-final_70
+    21300142: enemigo-final_71
+    21300144: enemigo-final_72
+    21300146: enemigo-final_73
+    21300148: enemigo-final_74
+    21300150: enemigo-final_75
+    21300152: enemigo-final_76
+    21300154: enemigo-final_77
+    21300156: enemigo-final_78
+    21300158: enemigo-final_79
+    21300160: enemigo-final_80
+    21300162: enemigo-final_81
+    21300164: enemigo-final_82
+    21300166: enemigo-final_83
+    21300168: enemigo-final_84
+    21300170: enemigo-final_85
+    21300172: enemigo-final_86
+    21300174: enemigo-final_87
+    21300176: enemigo-final_88
+    21300178: enemigo-final_89
+    21300180: enemigo-final_90
+    21300182: enemigo-final_91
+    21300184: enemigo-final_92
+    21300186: enemigo-final_93
+    21300188: enemigo-final_94
+    21300190: enemigo-final_95
+    21300192: enemigo-final_96
+    21300194: enemigo-final_97
+    21300196: enemigo-final_98
+    21300198: enemigo-final_99
+    21300200: enemigo-final_100
+    21300202: enemigo-final_107
+    21300204: enemigo-final_119
+    21300206: enemigo-final_126
+    21300208: enemigo-final_133
+    21300210: enemigo-final_135
+    21300212: enemigo-final_138
+    21300214: enemigo-final_147
+    21300216: enemigo-final_148
+    21300218: enemigo-final_149
+    21300220: enemigo-final_153
+    21300222: enemigo-final_154
+    21300224: enemigo-final_155
+    21300226: enemigo-final_156
+    21300228: enemigo-final_157
+    21300230: enemigo-final_158
+    21300232: enemigo-final_159
+    21300234: enemigo-final_170
+    21300236: enemigo-final_174
+    21300238: enemigo-final_175
+    21300240: enemigo-final_176
+    21300242: enemigo-final_177
+    21300244: enemigo-final_178
+    21300246: enemigo-final_179
+    21300248: enemigo-final_180
+    21300250: enemigo-final_181
+    21300252: enemigo-final_182
+    21300254: enemigo-final_183
+    21300256: enemigo-final_184
+    21300258: enemigo-final_185
+    21300260: enemigo-final_186
+    21300262: enemigo-final_187
+    21300264: enemigo-final_188
+    21300266: enemigo-final_189
+    21300268: enemigo-final_190
+    21300270: enemigo-final_191
+    21300272: enemigo-final_194
+    21300274: enemigo-final_195
+    21300276: enemigo-final_196
+    21300278: enemigo-final_197
+    21300280: enemigo-final_206
+    21300282: enemigo-final_207
+    21300284: enemigo-final_208
+    21300286: enemigo-final_209
+    21300288: enemigo-final_210
+    21300290: enemigo-final_211
+    21300292: enemigo-final_212
+    21300294: enemigo-final_213
+    21300296: enemigo-final_214
+    21300298: enemigo-final_215
+    21300300: enemigo-final_216
+    21300302: enemigo-final_217
+    21300304: enemigo-final_222
+    21300306: enemigo-final_223
+    21300308: enemigo-final_224
+    21300310: enemigo-final_227
+    21300312: enemigo-final_228
+    21300314: enemigo-final_234
+    21300316: enemigo-final_236
+    21300318: enemigo-final_237
+    21300320: enemigo-final_239
+    21300322: enemigo-final_240
+    21300324: enemigo-final_241
+    21300326: enemigo-final_249
+    21300328: enemigo-final_250
+    21300330: enemigo-final_251
+    21300332: enemigo-final_252
+    21300334: enemigo-final_253
+    21300336: enemigo-final_254
+    21300338: enemigo-final_255
+    21300340: enemigo-final_256
+    21300342: enemigo-final_257
+    21300344: enemigo-final_258
+    21300346: enemigo-final_259
+    21300348: enemigo-final_260
+    21300350: enemigo-final_261
+    21300352: enemigo-final_262
+    21300354: enemigo-final_263
+    21300356: enemigo-final_264
+    21300358: enemigo-final_265
+    21300360: enemigo-final_266
+    21300362: enemigo-final_267
+    21300364: enemigo-final_268
+    21300366: enemigo-final_269
+    21300368: enemigo-final_270
+    21300370: enemigo-final_271
+    21300372: enemigo-final_101
+    21300374: enemigo-final_102
+    21300376: enemigo-final_103
+    21300378: enemigo-final_104
+    21300380: enemigo-final_105
+    21300382: enemigo-final_106
+    21300384: enemigo-final_108
+    21300386: enemigo-final_109
+    21300388: enemigo-final_110
+    21300390: enemigo-final_111
+    21300392: enemigo-final_112
+    21300394: enemigo-final_113
+    21300396: enemigo-final_114
+    21300398: enemigo-final_115
+    21300400: enemigo-final_116
+    21300402: enemigo-final_117
+    21300404: enemigo-final_118
+    21300406: enemigo-final_120
+    21300408: enemigo-final_121
+    21300410: enemigo-final_122
+    21300412: enemigo-final_123
+    21300414: enemigo-final_124
+    21300416: enemigo-final_125
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemigo-final_0
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2637
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2645
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2648
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2580
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2572
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2634
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2639
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2622
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2630
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2636
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2634
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2636
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2583
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2617
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2630
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2632
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2610
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2618
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_18
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2631
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2585
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2618
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2619
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2607
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2623
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2627
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_25
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2624
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2622
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2620
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2604
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_30
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2607
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_31
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2610
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2588
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2592
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2594
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2604
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_36
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2605
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_37
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2600
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2592
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2594
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2597
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_41
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2597
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_42
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2583
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2592
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_44
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2581
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_45
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2583
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_46
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2585
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2570
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_48
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2568
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2570
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_50
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2567
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2568
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_52
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2566
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2512
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2512
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_55
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2484
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_56
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2485
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_57
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2491
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_58
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2500
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_59
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2497
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_60
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2483
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_61
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2484
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_62
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2485
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_63
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 2485
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_64
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2483
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_65
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2485
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2407
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_67
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2327
+        width: 516
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2344
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_69
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2344
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2344
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_71
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2345
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2344
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2344
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_74
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2344
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_75
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2345
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_76
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2344
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2344
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2284
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_79
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2281
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2278
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_81
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2281
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2284
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2284
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_84
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2281
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2281
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_86
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2189
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_87
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2194
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_88
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2196
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_89
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2189
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_90
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2087
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2088
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_92
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2086
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_93
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2088
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_94
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2088
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_95
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2015
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_96
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2015
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_97
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2014
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_98
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2013
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_99
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2015
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_100
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2069
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_107
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1993
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_119
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1902
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_126
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1676
+        width: 141
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_133
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1690
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_135
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1775
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_138
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1681
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_147
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1690
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_148
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1691
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_149
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1690
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_153
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1691
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_154
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1673
+        width: 150
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_155
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1745
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_156
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1676
+        width: 142
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_157
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1686
+        width: 136
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_158
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1688
+        width: 125
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_159
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1689
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_170
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1676
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_174
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1598
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_175
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1600
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_176
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1491
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_177
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1496
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_178
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1509
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_179
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1526
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_180
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1508
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_181
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1501
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_182
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1502
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_183
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1506
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_184
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1502
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_185
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1399
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_186
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1403
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_187
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1416
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_188
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1402
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_189
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1394
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_190
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1394
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_191
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1392
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_194
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1218
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_195
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1218
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_196
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1218
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_197
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1218
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_206
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 991
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_207
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 991
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_208
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 991
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_209
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 991
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_210
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 991
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_211
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 991
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_212
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 991
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_213
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 991
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_214
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 753
+        width: 75
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_215
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 755
+        width: 45
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_216
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 757
+        width: 36
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_217
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 760
+        width: 33
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_222
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 765
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_223
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 766
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_224
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 765
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_227
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 764
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_228
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 765
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_234
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 603
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_236
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 617
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_237
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 624
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_239
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 613
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_240
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 614
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_241
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 620
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_249
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2483
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_250
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2482
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_251
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2483
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_252
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2482
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_253
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2491
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_254
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2492
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_255
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2498
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_256
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2492
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_257
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2482
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_258
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 2487
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_259
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2408
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_260
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2407
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_261
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2409
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_262
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2408
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_263
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2407
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_264
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2197
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_265
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2197
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_266
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2198
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_267
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2201
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_268
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2089
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_269
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2088
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_270
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2086
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_271
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2016
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_101
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1690
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1690
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_103
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1602
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1599
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_105
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1599
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_106
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1524
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_108
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1501
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_109
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1506
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_110
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1506
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_111
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1503
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_112
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1401
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_113
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1406
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_114
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1410
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_115
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1393
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_116
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 759
+        width: 72
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_117
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 753
+        width: 58
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_118
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 754
+        width: 56
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_120
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 756
+        width: 52
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 614
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_122
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 614
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 613
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_124
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 614
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemigo-final_125
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 616
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: f85a3a47431057142a102b5eb28d4ce0
+timeCreated: 1478034337
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hinchafuego_0
+    21300002: hinchafuego_7
+    21300004: hinchafuego_8
+    21300006: hinchafuego_9
+    21300008: hinchafuego_10
+    21300010: hinchafuego_11
+    21300012: hinchafuego_12
+    21300014: hinchafuego_13
+    21300016: hinchafuego_14
+    21300018: hinchafuego_16
+    21300020: hinchafuego_17
+    21300022: hinchafuego_18
+    21300024: hinchafuego_19
+    21300026: hinchafuego_20
+    21300028: hinchafuego_21
+    21300030: hinchafuego_22
+    21300032: hinchafuego_23
+    21300034: hinchafuego_24
+    21300036: hinchafuego_25
+    21300038: hinchafuego_26
+    21300040: hinchafuego_28
+    21300042: hinchafuego_29
+    21300044: hinchafuego_32
+    21300046: hinchafuego_33
+    21300048: hinchafuego_34
+    21300050: hinchafuego_35
+    21300052: hinchafuego_36
+    21300054: hinchafuego_37
+    21300056: hinchafuego_38
+    21300058: hinchafuego_39
+    21300060: hinchafuego_41
+    21300062: hinchafuego_42
+    21300064: hinchafuego_43
+    21300066: hinchafuego_44
+    21300068: hinchafuego_47
+    21300070: hinchafuego_49
+    21300072: hinchafuego_50
+    21300074: hinchafuego_51
+    21300076: hinchafuego_52
+    21300078: hinchafuego_53
+    21300080: hinchafuego_57
+    21300082: hinchafuego_61
+    21300084: hinchafuego_63
+    21300086: hinchafuego_67
+    21300088: hinchafuego_68
+    21300090: hinchafuego_69
+    21300092: hinchafuego_70
+    21300094: hinchafuego_71
+    21300096: hinchafuego_75
+    21300098: hinchafuego_76
+    21300100: hinchafuego_82
+    21300102: hinchafuego_83
+    21300104: hinchafuego_84
+    21300106: hinchafuego_85
+    21300108: hinchafuego_86
+    21300110: hinchafuego_87
+    21300112: hinchafuego_88
+    21300114: hinchafuego_89
+    21300116: hinchafuego_1
+    21300118: hinchafuego_2
+    21300120: hinchafuego_3
+    21300122: hinchafuego_4
+    21300124: hinchafuego_5
+    21300126: hinchafuego_6
+    21300128: hinchafuego_15
+    21300130: hinchafuego_27
+    21300132: hinchafuego_30
+    21300134: hinchafuego_31
+    21300136: hinchafuego_40
+    21300138: hinchafuego_45
+    21300140: hinchafuego_46
+    21300142: hinchafuego_48
+    21300144: hinchafuego_54
+    21300146: hinchafuego_55
+    21300148: hinchafuego_56
+    21300150: hinchafuego_58
+    21300152: hinchafuego_59
+    21300154: hinchafuego_60
+    21300156: hinchafuego_62
+    21300158: hinchafuego_64
+    21300160: hinchafuego_65
+    21300162: hinchafuego_66
+    21300164: hinchafuego_72
+    21300166: hinchafuego_73
+    21300168: hinchafuego_74
+    21300170: hinchafuego_77
+    21300172: hinchafuego_78
+    21300174: hinchafuego_79
+    21300176: hinchafuego_80
+    21300178: hinchafuego_81
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hinchafuego_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 285
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 285
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 285
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 285
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 285
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 285
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 190
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 190
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 190
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 190
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 190
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 85
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 85
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 85
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 96
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 95
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 85
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_25
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 85
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_27
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 84
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_29
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 82
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 11
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 10
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_34
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 11
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchafuego_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 13
+        width: 88
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47600883, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

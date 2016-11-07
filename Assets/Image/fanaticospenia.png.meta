@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: 484b8a4704ddf9446a8dd7c445e644a4
+timeCreated: 1477851253
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fanaticospenia_0
+    21300002: fanaticospenia_1
+    21300004: fanaticospenia_2
+    21300006: fanaticospenia_3
+    21300008: fanaticospenia_4
+    21300010: fanaticospenia_5
+    21300012: fanaticospenia_6
+    21300014: fanaticospenia_7
+    21300016: fanaticospenia_8
+    21300018: fanaticospenia_9
+    21300020: fanaticospenia_10
+    21300022: fanaticospenia_11
+    21300024: fanaticospenia_12
+    21300026: fanaticospenia_13
+    21300028: fanaticospenia_14
+    21300030: fanaticospenia_15
+    21300032: fanaticospenia_16
+    21300034: fanaticospenia_17
+    21300036: fanaticospenia_18
+    21300038: fanaticospenia_19
+    21300040: fanaticospenia_20
+    21300042: fanaticospenia_21
+    21300044: fanaticospenia_22
+    21300046: fanaticospenia_23
+    21300048: fanaticospenia_24
+    21300050: fanaticospenia_25
+    21300052: fanaticospenia_26
+    21300054: fanaticospenia_27
+    21300056: fanaticospenia_28
+    21300058: fanaticospenia_29
+    21300060: fanaticospenia_30
+    21300062: fanaticospenia_31
+    21300064: fanaticospenia_32
+    21300066: fanaticospenia_33
+    21300068: fanaticospenia_34
+    21300070: fanaticospenia_35
+    21300072: fanaticospenia_36
+    21300074: fanaticospenia_37
+    21300076: fanaticospenia_38
+    21300078: fanaticospenia_39
+    21300080: fanaticospenia_40
+    21300082: fanaticospenia_41
+    21300084: fanaticospenia_42
+    21300086: fanaticospenia_43
+    21300088: fanaticospenia_44
+    21300090: fanaticospenia_45
+    21300092: fanaticospenia_46
+    21300094: fanaticospenia_47
+    21300096: fanaticospenia_48
+    21300098: fanaticospenia_49
+    21300100: fanaticospenia_50
+    21300102: fanaticospenia_51
+    21300104: fanaticospenia_52
+    21300106: fanaticospenia_53
+    21300108: fanaticospenia_54
+    21300110: fanaticospenia_55
+    21300112: fanaticospenia_56
+    21300114: fanaticospenia_57
+    21300116: fanaticospenia_58
+    21300118: fanaticospenia_59
+    21300120: fanaticospenia_60
+    21300122: fanaticospenia_61
+    21300124: fanaticospenia_62
+    21300126: fanaticospenia_63
+    21300128: fanaticospenia_64
+    21300130: fanaticospenia_65
+    21300132: fanaticospenia_66
+    21300134: fanaticospenia_67
+    21300136: fanaticospenia_68
+    21300138: fanaticospenia_69
+    21300140: fanaticospenia_70
+    21300142: fanaticospenia_71
+    21300144: fanaticospenia_72
+    21300146: fanaticospenia_73
+    21300148: fanaticospenia_74
+    21300150: fanaticospenia_75
+    21300152: fanaticospenia_76
+    21300154: fanaticospenia_77
+    21300156: fanaticospenia_78
+    21300158: fanaticospenia_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fanaticospenia_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 401
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 397
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 397
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 401
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 397
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 397
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 394
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 396
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 406
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 405
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 400
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 407
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_12
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 406
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_13
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 408
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 407
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_15
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 408
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 325
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 321
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 321
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 325
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 321
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 321
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 318
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_24
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 330
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 329
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 324
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 331
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_28
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 330
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_29
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 332
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_30
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 331
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_31
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 332
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 249
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 245
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 245
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 249
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 245
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_37
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 245
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 242
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 244
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 254
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_41
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 253
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_42
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 248
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 255
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_44
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 254
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_45
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 256
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_46
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 255
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_47
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 256
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 173
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 169
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 169
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 173
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_52
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 169
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 169
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 166
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 168
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_56
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 178
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_57
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 177
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_58
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 172
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_59
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 179
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_60
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 178
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_61
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 180
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_62
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 179
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_63
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 180
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 97
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_65
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 93
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 93
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 97
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_68
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 93
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 93
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_70
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 90
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_71
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 92
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_72
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 102
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_73
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 101
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_74
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 96
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_75
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 103
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_76
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 102
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_77
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 104
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_78
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 103
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fanaticospenia_79
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 104
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

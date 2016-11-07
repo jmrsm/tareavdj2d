@@ -1,0 +1,1977 @@
+fileFormatVersion: 2
+guid: 767a650dc75ca714ab3044e4472935a1
+timeCreated: 1477850850
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hinchapenia_0
+    21300002: hinchapenia_1
+    21300004: hinchapenia_2
+    21300006: hinchapenia_3
+    21300008: hinchapenia_4
+    21300010: hinchapenia_5
+    21300012: hinchapenia_6
+    21300014: hinchapenia_7
+    21300016: hinchapenia_8
+    21300018: hinchapenia_9
+    21300020: hinchapenia_10
+    21300022: hinchapenia_11
+    21300024: hinchapenia_12
+    21300026: hinchapenia_13
+    21300028: hinchapenia_14
+    21300030: hinchapenia_15
+    21300032: hinchapenia_16
+    21300034: hinchapenia_17
+    21300036: hinchapenia_18
+    21300038: hinchapenia_19
+    21300040: hinchapenia_20
+    21300042: hinchapenia_21
+    21300044: hinchapenia_22
+    21300046: hinchapenia_23
+    21300048: hinchapenia_24
+    21300050: hinchapenia_25
+    21300052: hinchapenia_26
+    21300054: hinchapenia_27
+    21300056: hinchapenia_28
+    21300058: hinchapenia_29
+    21300060: hinchapenia_30
+    21300062: hinchapenia_31
+    21300064: hinchapenia_32
+    21300066: hinchapenia_33
+    21300068: hinchapenia_34
+    21300070: hinchapenia_35
+    21300072: hinchapenia_36
+    21300074: hinchapenia_37
+    21300076: hinchapenia_38
+    21300078: hinchapenia_39
+    21300080: hinchapenia_40
+    21300082: hinchapenia_41
+    21300084: hinchapenia_42
+    21300086: hinchapenia_43
+    21300088: hinchapenia_44
+    21300090: hinchapenia_45
+    21300092: hinchapenia_46
+    21300094: hinchapenia_47
+    21300096: hinchapenia_48
+    21300098: hinchapenia_49
+    21300100: hinchapenia_50
+    21300102: hinchapenia_51
+    21300104: hinchapenia_52
+    21300106: hinchapenia_53
+    21300108: hinchapenia_54
+    21300110: hinchapenia_55
+    21300112: hinchapenia_56
+    21300114: hinchapenia_57
+    21300116: hinchapenia_58
+    21300118: hinchapenia_59
+    21300120: hinchapenia_60
+    21300122: hinchapenia_61
+    21300124: hinchapenia_62
+    21300126: hinchapenia_63
+    21300128: hinchapenia_64
+    21300130: hinchapenia_65
+    21300132: hinchapenia_66
+    21300134: hinchapenia_67
+    21300136: hinchapenia_68
+    21300138: hinchapenia_69
+    21300140: hinchapenia_70
+    21300142: hinchapenia_71
+    21300144: hinchapenia_72
+    21300146: hinchapenia_73
+    21300148: hinchapenia_74
+    21300150: hinchapenia_75
+    21300152: hinchapenia_76
+    21300154: hinchapenia_77
+    21300156: hinchapenia_78
+    21300158: hinchapenia_79
+    21300160: hinchapenia_80
+    21300162: hinchapenia_81
+    21300164: hinchapenia_82
+    21300166: hinchapenia_83
+    21300168: hinchapenia_84
+    21300170: hinchapenia_85
+    21300172: hinchapenia_86
+    21300174: hinchapenia_87
+    21300176: hinchapenia_88
+    21300178: hinchapenia_89
+    21300180: hinchapenia_90
+    21300182: hinchapenia_91
+    21300184: hinchapenia_92
+    21300186: hinchapenia_93
+    21300188: hinchapenia_94
+    21300190: hinchapenia_95
+    21300192: hinchapenia_96
+    21300194: hinchapenia_97
+    21300196: hinchapenia_98
+    21300198: hinchapenia_99
+    21300200: hinchapenia_100
+    21300202: hinchapenia_101
+    21300204: hinchapenia_102
+    21300206: hinchapenia_103
+    21300208: hinchapenia_104
+    21300210: hinchapenia_105
+    21300212: hinchapenia_106
+    21300214: hinchapenia_107
+    21300216: hinchapenia_108
+    21300218: hinchapenia_109
+    21300220: hinchapenia_110
+    21300222: hinchapenia_111
+    21300224: hinchapenia_112
+    21300226: hinchapenia_113
+    21300228: hinchapenia_114
+    21300230: hinchapenia_115
+    21300232: hinchapenia_116
+    21300234: hinchapenia_117
+    21300236: hinchapenia_118
+    21300238: hinchapenia_119
+    21300240: hinchapenia_120
+    21300242: hinchapenia_121
+    21300244: hinchapenia_122
+    21300246: hinchapenia_123
+    21300248: hinchapenia_124
+    21300250: hinchapenia_125
+    21300252: hinchapenia_126
+    21300254: hinchapenia_127
+    21300256: hinchapenia_128
+    21300258: hinchapenia_129
+    21300260: hinchapenia_130
+    21300262: hinchapenia_131
+    21300264: hinchapenia_132
+    21300266: hinchapenia_133
+    21300268: hinchapenia_134
+    21300270: hinchapenia_135
+    21300272: hinchapenia_136
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hinchapenia_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1283
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1283
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1283
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1283
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1304
+        width: 70
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1281
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_6
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1281
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1277
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1277
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1281
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1281
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_11
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1277
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1200
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1200
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1200
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1200
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1200
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1200
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1199
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1201
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1246
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1246
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_22
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1246
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_23
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1246
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_24
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1246
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1246
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_26
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1246
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1246
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_28
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1215
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_29
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1215
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1117
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1117
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1117
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1117
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1117
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1117
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1117
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1117
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_38
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1117
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_39
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1117
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_40
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1117
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_41
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1117
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_42
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1117
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_43
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1117
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1026
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1032
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_46
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1034
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1040
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1049
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1026
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1028
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1027
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_52
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1027
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 932
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 932
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 932
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_56
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 932
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_57
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 932
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_58
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 932
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_59
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 932
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_60
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 932
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_61
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 932
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_62
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 932
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_63
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 932
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 850
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_65
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 850
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_66
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 850
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_67
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 852
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 851
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 850
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_70
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 850
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_71
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 764
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 769
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 768
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 769
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 769
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_76
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 768
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_77
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 769
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_78
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 769
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 673
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_80
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 688
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 710
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_82
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 702
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_83
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 693
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 611
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 609
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_86
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 614
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_87
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 613
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_88
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 609
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_89
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 611
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_90
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 612
+        width: 82
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_91
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 612
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_92
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 612
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 526
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 528
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_95
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 530
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_96
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 530
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_97
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 529
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_98
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 529
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 536
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 535
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_101
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 535
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_102
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 536
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_103
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 536
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_104
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 537
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 445
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 445
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 445
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_108
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 445
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_109
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 385
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_110
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 380
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_111
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 380
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_112
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 331
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 330
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_114
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 333
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 332
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_116
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 243
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 246
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_118
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 256
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_119
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 255
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_120
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 244
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 168
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_122
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_123
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 174
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_124
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 171
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 168
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_126
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 173
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_127
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 96
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_128
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_129
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_130
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_131
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 11
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_133
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 8
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_134
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 8
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_135
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 24
+        width: 91
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hinchapenia_136
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 24
+        width: 91
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
